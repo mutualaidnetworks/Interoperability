@@ -27,4 +27,4 @@ Here are some documents that were done earlier.
 * [Existing categories for marketplace](https://docs.google.com/presentation/d/1GURT08liVTBkGvN0ah6-1tMLDwKC2G0PNZNSZASMDic/edit?usp=sharing)
 * [Start of a plan for the interoperability](https://docs.google.com/document/d/14hER3Gqkf1cbQkuMjVshbZF5CtSs5zacJMuen37EHkY/edit?usp=sharing)
 * [Notes in diagram form of what might need to be interoperable, really old now](https://docs.google.com/drawings/d/1Bcu0wHJoYJy6HQI1qJsnuHgMkFKJO7dVCFzJO4RVpuA/edit?usp=sharing)
-* [UML class diagram of ValueFlows, still under discussion there](https://drive.google.com/file/d/0B6Rd5fQ-CZheSmo0aXJMQV9uMnc/view?usp=sharing)
+* [UML class diagram of ValueFlows, not final, still under discussion there](https://drive.google.com/file/d/0B6Rd5fQ-CZheSmo0aXJMQV9uMnc/view?usp=sharing)
